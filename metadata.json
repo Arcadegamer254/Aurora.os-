@@ -1,0 +1,5 @@
+{
+  "name": "AuroraOS",
+  "description": "Advanced web-based operating system interface with virtual file system and window management.",
+  "requestFramePermissions": []
+}
